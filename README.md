@@ -1,5 +1,5 @@
 # BERT_based_Sequence_Prediction
-This BERT based Algorithm is useful for predicting the order of sentences. For example, let's say we have three sentences:
+This BERT based Algorithm that I implemented in PyTorch is useful for predicting the order of sentences. For example, let's say we have three sentences:
 1. He ate his lunch.
 2. He closed his lunchbox.
 3. Joe opened his lunchbox.
